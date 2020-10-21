@@ -22,3 +22,6 @@ Graphics by Emanuele Feronato.
 
 # Try it!
 http://britzl.github.io/publicexamples/mike_dangers/index.html
+
+# New version
+An updated version of this project can be found here: https://github.com/defold/game-climberz (play it: https://defold.itch.io/climberz)
